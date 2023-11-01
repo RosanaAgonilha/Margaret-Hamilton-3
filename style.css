@@ -1,13 +1,14 @@
 body { 
-    background-color: #FFF2D8;
+    background-color: #d8fffe;
 }
 
-#titulo {
+h1 {
     text-align: center;
 }
 
-.texto {
+p {
     text-align: center;
     color:rgb(197, 60, 156);
+    font-size: 14px;
 }
 
